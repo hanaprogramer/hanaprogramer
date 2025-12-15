@@ -1,16 +1,20 @@
 ## Hi there 👋
+class BackendDeveloper:
+    def __init__(self):
+        self.name = "Hana"
+        self.focus = "Backend Development"
+        self.languages = ["Python"]
+        self.frameworks = ["Django", "Django REST Framework"]
+        self.interests = [
+            "Clean architecture",
+            "Readable code",
+            "Scalable APIs"
+        ]
 
-<!--
-**hanaprogramer/hanaprogramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    def mindset(self):
+        return "Clarity over cleverness, fundamentals over shortcuts"
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+me = BackendDeveloper()
+print(me.mindset())
+
