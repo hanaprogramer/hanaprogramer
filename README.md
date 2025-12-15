@@ -1,4 +1,4 @@
-## Hi there 👋
+
 class BackendDeveloper:
     def __init__(self):
         self.name = "Hana"
