@@ -1,7 +1,7 @@
 ```python
 class BackendDeveloper:
     def __init__(self):
-        self.name = "Hana"
+        self.name = "Hosna"
         self.focus = "Backend Development"
         self.languages = ["Python"]
         self.frameworks = ["Django", "Django REST Framework"]
