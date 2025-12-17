@@ -39,9 +39,4 @@ print(me.mindset())
 </p>
 
 
-📫 **Contact:**  
-[Email](mailto:hanahemati9@gmail.com) • 
-[Telegram](https://t.me/HosnaHmti71) • 
-[Instagram](https://instagram.com/h.hmti71)
-
 
