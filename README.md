@@ -19,3 +19,25 @@ me = BackendDeveloper()
 print(me.mindset())
 ```
 
+
+![stats](https://github-readme-stats.vercel.app/api?username=hanaprogramer&hide=stars,prs)
+
+
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="mailto:hanahemati9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hanahemati9@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/HosnaHmti71">
+    <img src="https://img.shields.io/badge/Telegram-@HosnaHmti71-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/h.hmti71">
+    <img src="https://img.shields.io/badge/Instagram-@h.hmti71-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+
+
+
