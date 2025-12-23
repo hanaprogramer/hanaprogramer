@@ -12,40 +12,35 @@
 class BackendDeveloper:
     def __init__(self):
         self.name = "Hosna"
-        self.focus = "Backend Development"
-        self.languages = ["Python"]
-        self.frameworks = ["Django", "Django REST Framework"]
-        self.interests = [
-            "Clean architecture",
-            "Readable code",
-            "Scalable APIs"
-        ]
+        self.stack = ["Python", "Django", "DRF"]
+        self.values = ["Clean Code", "Scalable Design", "Maintainability"]
 
-    def mindset(self):
-        return "Clarity over cleverness, fundamentals over shortcuts"
+    def philosophy(self):
+        return "Clarity over cleverness"
 
-
-me = BackendDeveloper()
-print(me.mindset())
 ```
+---
+### 👩‍💻 About Me
 
+Backend Developer focused on building **clean, secure and scalable APIs** using Python and Django.  
+I enjoy designing backend architectures that are easy to maintain and ready for growth.
+---
+## 🛠️ Tech Stack 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![REST API](https://img.shields.io/badge/REST-005571?style=for-the-badge) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens) --- <h2>⚡️ &nbsp; Github Stats</h2> <p align="center"> <a href="https://github.com/hanaprogramer"> <img src="https://github-readme-stats.vercel.app/api?username=hanaprogramer&show_icons=true&theme=default&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=555555&border_color=dddddd" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanaprogramer&layout=compact&theme=default&bg_color=ffffff&title_color=000000&text_color=333333&border_color=dddddd" height="165" /> </a> </p>
 
-![stats](https://github-readme-stats.vercel.app/api?username=hanaprogramer&hide=stars,prs)
+### 🚀 What I’m Working On
+- Building RESTful APIs with Django REST Framework
+- Improving backend architecture and security
+- Learning Docker & production-ready deployments
 
 
 
 ## 🌐 Connect with Me
 
-<p align="left">
-  <a href="mailto:hanahemati9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hanahemati9@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/HosnaHmti71">
-    <img src="https://img.shields.io/badge/Telegram-@HosnaHmti71-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/h.hmti71">
-    <img src="https://img.shields.io/badge/Instagram-@h.hmti71-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+<p align="center">
+  <a href="mailto:hanahemati9@gmail.com">📧 Email</a> •
+  <a href="https://t.me/HosnaHmti71">💬 Telegram</a> •
+  <a href="https://instagram.com/h.hmti71">📸 Instagram</a>
 </p>
 
 
